@@ -1,0 +1,20 @@
+{
+  "name": "Evergreen Showcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "surge --project showcase/build --domain https://eg.surge.sh/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarthdave/evergreen-showcase.git"
+  },
+  "keywords": ["evergreen", "segment"],
+  "author": "Samarth Dave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samarthdave/evergreen-showcase/issues"
+  },
+  "homepage": "https://github.com/samarthdave/evergreen-showcase#readme"
+}
