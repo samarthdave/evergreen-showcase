@@ -1,5 +1,5 @@
 {
-  "name": "Evergreen Showcase",
+  "name": "evergreen-showcase",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/samarthdave/evergreen-showcase.git"
   },
-  "keywords": ["evergreen", "segment"],
+  "keywords": [
+    "evergreen",
+    "showcase",
+    "segment"
+  ],
   "author": "Samarth Dave",
   "license": "MIT",
   "bugs": {
