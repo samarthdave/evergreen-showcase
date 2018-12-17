@@ -17,7 +17,7 @@ const EvergreenNavigation = () => {
         flex={1}
         alignItems="center"
         display="flex">
-        <Heading size={700}>Evergreen Showcase</Heading>
+        <Heading size={700}>Evergreen Showcase (unofficial)</Heading>
       </Pane>
       <Pane>
         <Button

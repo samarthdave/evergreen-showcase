@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "surge --project showcase/build --domain https://eg.surge.sh/"
+    "deploy": "mv showcase/build/index.html showcase/build/200.html && surge --project showcase/build --domain https://eg.surge.sh/"
   },
   "repository": {
     "type": "git",

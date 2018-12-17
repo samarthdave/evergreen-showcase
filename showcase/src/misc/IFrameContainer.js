@@ -21,7 +21,10 @@ class IFrameContainer extends Component {
 
   render() {
     const { className } = this.props;
-    return <iframe ref="iframe" className={className} />;
+    return <iframe
+      title='IFrameContainer'
+      ref="iframe"
+      className={className} />;
   }
 }
 
